@@ -15,6 +15,46 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\maconrm180\Documents\Peyton Bode\Trophy-Case-Project\TrophyCaseProject
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/maconrm180/Documents/Peyton Bode/Trophy-Case-Project/TrophyCaseProject/Pages/Awards/Plaques/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXdhcmRzXFBsYXF1ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maconrm180/Documents/Peyton Bode/Trophy-Case-Project/TrophyCaseProject/Pages/Awards/Plaques/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXdhcmRzXFBsYXF1ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maconrm180/Documents/Peyton Bode/Trophy-Case-Project/TrophyCaseProject/Pages/Awards/Plaques/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXdhcmRzXFBsYXF1ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maconrm180/Documents/Peyton Bode/Trophy-Case-Project/TrophyCaseProject/Pages/Awards/Plaques/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXdhcmRzXFBsYXF1ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maconrm180/Documents/Peyton Bode/Trophy-Case-Project/TrophyCaseProject/Pages/Awards/Plaques/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXdhcmRzXFBsYXF1ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maconrm180/Documents/Peyton Bode/Trophy-Case-Project/TrophyCaseProject/Pages/Awards/Trophies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXdhcmRzXFRyb3BoaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maconrm180/Documents/Peyton Bode/Trophy-Case-Project/TrophyCaseProject/Pages/Awards/Trophies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXdhcmRzXFRyb3BoaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maconrm180/Documents/Peyton Bode/Trophy-Case-Project/TrophyCaseProject/Pages/Awards/Trophies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXdhcmRzXFRyb3BoaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maconrm180/Documents/Peyton Bode/Trophy-Case-Project/TrophyCaseProject/Pages/Awards/Trophies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXdhcmRzXFRyb3BoaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maconrm180/Documents/Peyton Bode/Trophy-Case-Project/TrophyCaseProject/Pages/Awards/Trophies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXdhcmRzXFRyb3BoaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/maconrm180/Documents/Peyton Bode/Trophy-Case-Project/TrophyCaseProject/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
