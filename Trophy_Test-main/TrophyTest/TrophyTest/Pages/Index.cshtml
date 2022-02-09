@@ -1,0 +1,18 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Mr. Wilson - Trophy Test</h1>
+    <p>Project to make Peyton a little more crazy ( Like Logan)</a>.</p>
+</div>
+
+@foreach (var trophy in Model.Trophies)
+{
+    <h4>@trophy.Year @trophy.Class @trophy.Sport @trophy.Place</h4>
+
+
+}
+

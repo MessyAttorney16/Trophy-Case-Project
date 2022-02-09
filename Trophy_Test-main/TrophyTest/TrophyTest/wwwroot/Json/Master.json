@@ -1,0 +1,91 @@
+[
+  {
+    "Id": 1,
+    "Year": 1999,
+    "Sport": "Baseball",
+    "Division": "Clarence Cannon Conference",
+    "Place": "Champions",
+    "Class": "Boys"
+  },
+  {
+    "Id": 2,
+    "Year": 2000,
+    "Sport": "Baseball",
+    "Division": "Clarence Cannon Conference",
+    "Place": "Champions",
+    "Class": "Boys"
+  },
+  {
+    "Id": 3,
+    "Year": 2001,
+    "Sport": "Baseball",
+    "Division": "Clarence Cannon Conference",
+    "Place": "Champions",
+    "Class": "Boys Class 3"
+  },
+  {
+    "Id": 5,
+    "Year": 2009,
+    "Sport": "Baseball",
+    "Division": "Clarence Cannon Conference",
+    "Place": "Champions",
+    "Class": "Class 3"
+  },
+  {
+    "Id": 6,
+    "Year": 2010,
+    "Sport": "Baseball",
+    "Division": "Clarence Cannon Conference",
+    "Place": "Champions",
+    "Class": "Boys Class 3"
+  },
+  {
+    "Id": 7,
+    "Year": 2019,
+    "Sport": "Baseball",
+    "Division": "District Baseball",
+    "Place": "Second Place",
+    "Class": "Class 3"
+  },
+  {
+    "Id": 8,
+    "Year": 2020,
+    "Sport": "Baseball",
+    "Division": "Clarence Cannon Conference",
+    "Place": "Champions",
+    "Class": "Boys Class 3"
+  },
+  {
+    "Id": 9,
+    "Year": 1977,
+    "Sport": "Basketball",
+    "Division": "Girls Regional Basketball Tournament",
+    "Place": "First Place",
+    "Class": "Girls Class 2A"
+  },
+
+  {
+    "Id": 10,
+    "Year": 1989,
+    "Sport": "Cheerleading",
+    "Division": "State Championship",
+    "Place": "First Place",
+    "Class": "3A Large"
+  },
+  {
+    "Id": 11,
+    "Year": 1991,
+    "Sport": "Cheerleading",
+    "Division": "State Championship",
+    "Place": "First Place",
+    "Class": "Show Division"
+  },
+  {
+    "Id": 12,
+    "Year": 1992,
+    "Sport": "Cheerleading",
+    "Division": "State Championship",
+    "Place": "First Place",
+    "Class": "Show Division"
+  }
+]
